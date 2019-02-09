@@ -42,7 +42,6 @@ This module loads has full coverage of the meta-data, and data of the TEC.
 
 * Lobby Reports (tables `l_*`)
 * Campaign Finance Reports (tables `c_*`)
-* 1295 Certs
 
 ```
 tec.c_assetdata                tec.c_finaldata                tec.form1295_interested_party
